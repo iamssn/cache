@@ -1,5 +1,5 @@
 <?php
-namespace issn\cache;
+namespace iamssn\cache;
 
 class Memcache extends Driver
 {
