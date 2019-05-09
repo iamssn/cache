@@ -1,7 +1,5 @@
 <?php
-namespace issn\cache;
-require_once __DIR__ . '/Driver.php';
-require_once __DIR__ . '/Redis.php';
+namespace iamssn\cache;
 /**
  * Class Cache
  * @package cache
@@ -25,9 +23,9 @@ class Cache
         'type'  =>  'complex',
         'default'	=>	[
             'type'   => 'Redis', //缓存类型
-            'host'       => 'iamredis.redis.rds.aliyuncs.com',
+            'host'       => '',
             'port'       => 6379,
-            'password'   => '*#c#$N#lwf%^audr',
+            'password'   => '',
             'select'     => 5,
             'timeout'    => 0,
             'expire'     => 0,//全局缓存有效期（0为永久有效）
@@ -37,9 +35,9 @@ class Cache
         ],
         'user'	=>	[
             'type'   => 'Redis', //缓存类型
-            'host'       => 'iamredis.redis.rds.aliyuncs.com',
+            'host'       => '',
             'port'       => 6379,
-            'password'   => '*#c#$N#lwf%^audr',
+            'password'   => '',
             'select'     => 6,
             'timeout'    => 0,
             'expire'     => 0,//全局缓存有效期（0为永久有效）
