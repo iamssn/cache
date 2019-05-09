@@ -1,5 +1,5 @@
 <?php
-namespace issn\cache;
+namespace iamssn\cache;
 
 /**
  * 缓存基础类
