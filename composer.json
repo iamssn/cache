@@ -12,6 +12,6 @@
         }
     ],
     "autoload": {
-        "psr-4": {"iamssn_cache\\": "./src"}
+        "psr-4": {"iamssn\\cache\\":"src"}
     }
 }
