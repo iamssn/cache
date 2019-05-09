@@ -1,6 +1,7 @@
 {
     "name"  : "iamssn/cache",
-    "keywords": "cache",
+    "keywords": ["cache","iamssn"]
+    "description": "移植的TP5.1的Cache类.",
     "homepage": "https://github.com/iamssn/cache",
     "license" : "MIT",
     "require": {
