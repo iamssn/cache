@@ -1,6 +1,7 @@
 {
     "name"  : "iamssn/cache",
     "keywords": "cache",
+    "homepage": "https://github.com/iamssn/cache",
     "license" : "MIT",
     "require": {
         "php": ">=5.3.0"
