@@ -1,0 +1,17 @@
+{
+    "name"  : "issn/cache",
+    "keywords": ["cache","communication"],
+    "license" : "MIT",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "authors": [
+        {
+            "name": "iamssn",
+            "email": "784480561@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"issn_cache\\": "./src"}
+    }
+}
