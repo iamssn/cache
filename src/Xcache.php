@@ -1,9 +1,8 @@
 <?php
-namespace issn\cache;
+namespace iamssn\cache;
 
 /**
  * Xcache缓存驱动
- * @author    liu21st <liu21st@gmail.com>
  */
 class Xcache extends Driver
 {
