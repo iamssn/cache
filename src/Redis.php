@@ -1,5 +1,5 @@
 <?php
-namespace issn\cache;
+namespace iamssn\cache;
 
 /**
  * Redis缓存驱动，适合单机部署、有前端代理实现高可用的场景，性能最好
