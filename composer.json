@@ -1,7 +1,7 @@
 {
     "name"  : "iamssn/cache",
     "keywords": ["cache","iamssn"]
-    "description": "transplant TP5.1.",
+    "description":"transplant TP5.1",
     "homepage": "https://github.com/iamssn/cache",
     "license" : "MIT",
     "require": {
