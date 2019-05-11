@@ -1,19 +1,19 @@
 {
-    "name"  : "iamssn/cache",
-    "keywords": ["cache","iamssn"],
+    "name":"iamssn/cache",
+    "keywords":["cache","iamssn"],
     "description":"transplant TP5.1",
-    "homepage": "https://github.com/iamssn/cache",
-    "license" : "MIT",
-    "require": {
-        "php": ">=5.6.0"
+    "homepage":"https://github.com/iamssn/cache",
+    "license":"MIT",
+    "require":{
+        "php":">=5.6.0"
     },
-    "authors": [
+    "authors":[
         {
-            "name": "iamssn",
-            "email": "784480561@qq.com"
+            "name":"iamssn",
+            "email":"784480561@qq.com"
         }
     ],
-    "autoload": {
-        "psr-4": {"iamssn\\cache\\":"src"}
+    "autoload":{
+        "psr-4":{"iamssn\\cache\\":"src"}
     }
 }
